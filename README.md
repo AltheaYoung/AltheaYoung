@@ -10,7 +10,7 @@
 
 I am a **Dual Degree student in Mathematics and Intelligent Science & Technology** at Sichuan University. My expertise lies at the intersection of mathematical modeling and deep learning, with a focus on Generative AI and Time-Series Analysis.
 
-- 🎓 **Education**: Sichuan University (Dual B.S. in Math & AI) | GPA: 3.52/4.00
+- 🎓 **Education**: Sichuan University (Dual B.S. in Math & AI) 
 - 💼 **Latest Internship**: AI Engineer Intern at **China Unicom Internet Research Institute**
 - 🔬 **Research Interests**: Multimodal Generation, Prompt Engineering, Predictive Modeling
 - 🏆 **Achievements**: National 3rd Prize in "Challenge Cup", Provincial 1st Prize in Math Modeling
