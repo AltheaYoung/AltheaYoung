@@ -49,19 +49,10 @@ I am a **Dual Degree student in Mathematics and Intelligent Science & Technology
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AltheaYoung&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AltheaYoung&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Let's Connect!
 
 - **Email**: [2023141210191@stu.scu.edu.cn](mailto:2023141210191@stu.scu.edu.cn)
 - **GitHub**: [github.com/AltheaYoung](https://github.com/AltheaYoung)
-- **LinkedIn**: [Your-LinkedIn-Profile-URL-Here]
 
 <p align="right"><i>"Mathematics is the language in which God has written the universe."</i></p>
