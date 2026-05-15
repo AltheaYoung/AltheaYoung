@@ -12,7 +12,7 @@ I am a **Dual Degree student in Mathematics and Intelligent Science & Technology
 
 - 🎓 **Education**: Sichuan University (Dual B.S. in Math & AI) 
 - 💼 **Latest Internship**: AI Engineer Intern at **China Unicom Internet Research Institute**
-- 🔬 **Research Interests**: Multimodal Generation, Prompt Engineering, Predictive Modeling
+- 🔬 **Research Interests**: Multimodal Generation, AI Agent
 - 🏆 **Achievements**: National 3rd Prize in "Challenge Cup", Provincial 1st Prize in Math Modeling
 - 🌐 **Languages**: English (IELTS 7.0, CET-6 604), Mandarin (Native)
 
@@ -37,13 +37,13 @@ I am a **Dual Degree student in Mathematics and Intelligent Science & Technology
 - Implemented **Sliding Window** and **Teacher Forcing** techniques to enhance convergence stability in complex time-series data.
 - Awarded National 3rd Prize in the "Challenge Cup" and Tsinghua IE Sword Competition.
 
-#### 🪄 [Multimodal AI Assistant for WPS (China Unicom)]([Link-To-Repo])
+#### 🪄 [Multimodal AI Assistant for WPS (China Unicom)]
 *AI Engineer Internship Project*
 - Co-developed an AI plugin for WPS to automate text refinement and editable PPT generation via natural language instructions.
 - Leveraged **NLP semantic expansion** and **SVG/HTML layout engines** to bridge the gap between text prompts and structured slide formats.
 - Boosted layout parsing accuracy by **35%** and improved PPT production efficiency by **70%** compared to manual creation.
 
-#### 📊 [Mathematical Modeling Collection]([Link-To-Repo])
+#### 📊 [Mathematical Modeling Collection](https://github.com/AltheaYoung/exp_competition)
 - A repository featuring solutions for various Math Modeling competitions, focusing on optimization and statistical analysis.
 - **Result**: Provincial 1st Prize in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
 
