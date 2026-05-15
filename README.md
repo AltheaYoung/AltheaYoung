@@ -31,7 +31,7 @@ I am a **Dual Degree student in Mathematics and Intelligent Science & Technology
 
 ### 🚀 Key Projects
 
-#### ✈️ [Flight Flow Prediction based on METAR]([Link-To-Repo])
+#### ✈️ [Flight Flow Prediction based on METAR]([https://github.com/AltheaYoung/FLOW_PREDICT])
 *Project Leader | National Award Winner*
 - Developed a **Seq2Seq + GRU** model to predict flight traffic for the next 24 hours by parsing structured METAR weather reports.
 - Implemented **Sliding Window** and **Teacher Forcing** techniques to enhance convergence stability in complex time-series data.
