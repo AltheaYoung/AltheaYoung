@@ -37,7 +37,7 @@ I am a **Dual Degree student in Mathematics and Intelligent Science & Technology
 - Implemented **Sliding Window** and **Teacher Forcing** techniques to enhance convergence stability in complex time-series data.
 - Awarded National 3rd Prize in the "Challenge Cup" and Tsinghua IE Sword Competition.
 
-#### 🪄 [Multimodal AI Assistant for WPS (China Unicom)]([link to repo])
+#### 🪄 **[Multimodal AI Assistant for WPS (China Unicom)]**
 *AI Engineer Internship Project*
 - Co-developed an AI plugin for WPS to automate text refinement and editable PPT generation via natural language instructions.
 - Leveraged **NLP semantic expansion** and **SVG/HTML layout engines** to bridge the gap between text prompts and structured slide formats.
@@ -47,7 +47,7 @@ I am a **Dual Degree student in Mathematics and Intelligent Science & Technology
 - A repository featuring solutions for various Math Modeling competitions, focusing on optimization and statistical analysis.
 - **Result**: Provincial 1st Prize in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM).
 
-#### 🧩 [TAAC-KDD(Recommendation Algorithm）](https://github.com/AltheaYoung/TAAC-KDD）
+#### 🧩 [TAAC-KDD(Recommendation Algorithm](https://github.com/AltheaYoung/TAAC-KDD)
 - A ranking & recommendation model built for the KDD TAAC competition, focusing on multi-task learning, feature engineering, and implicit feedback modeling.
 - Result: Final AUC score of 0.823 in the competition ranking task.(current)
 
